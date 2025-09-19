@@ -36,33 +36,6 @@ export function Footer() {
               </div>
             </div>
 
-            {/* Quick Links */}
-            <div>
-              <h4 className="text-xl font-bold mb-6 text-festival-cream">
-                Enlaces Rápidos
-              </h4>
-              <div className="space-y-3">
-                <a href="#programa" className="block text-festival-cream/80 hover:text-festival-pink transition-colors">
-                  Programa del Festival
-                </a>
-                <a href="#experiencias" className="block text-festival-cream/80 hover:text-festival-pink transition-colors">
-                  Experiencias y Juegos
-                </a>
-                <a href="#lineup" className="block text-festival-cream/80 hover:text-festival-pink transition-colors">
-                  Line-up Musical
-                </a>
-                <a href="#foodtrucks" className="block text-festival-cream/80 hover:text-festival-pink transition-colors">
-                  Food Trucks
-                </a>
-                <a href="#registro" className="block text-festival-cream/80 hover:text-festival-pink transition-colors">
-                  Registro
-                </a>
-                <a href="#faq" className="block text-festival-cream/80 hover:text-festival-pink transition-colors">
-                  Preguntas Frecuentes
-                </a>
-              </div>
-            </div>
-
             {/* Social & Legal */}
             <div>
               <h4 className="text-xl font-bold mb-6 text-festival-cream">
