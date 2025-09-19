@@ -180,7 +180,7 @@ export function FoodTrucks() {
           {/* CTA */}
           <div className="text-center">
             <div className="festival-card p-8 bg-gradient-to-r from-festival-green/5 to-festival-pink/5 border-festival-accent/20">
-              <h3 className="text-2xl font-bold text-festival-dark mb-4">
+              <h3 className="text-2xl font-bold text-festival-white mb-4">
                 ¿Tienes alguna preferencia alimentaria?
               </h3>
               <p className="text-muted-foreground mb-6">
