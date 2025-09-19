@@ -34,6 +34,9 @@ export function Header() {
             <a href="#activities" className="text-foreground/80 hover:text-festival-cyan transition-colors font-medium">
               Experiencias
             </a>
+            <a href="#foodtrucks" className="text-foreground/80 hover:text-festival-cyan transition-colors font-medium">
+              Foodtrucks
+            </a>
             <a href="#photos" className="text-foreground/80 hover:text-festival-cyan transition-colors font-medium">
               Fotos
             </a>

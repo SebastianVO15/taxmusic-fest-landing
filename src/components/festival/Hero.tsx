@@ -56,9 +56,6 @@ export function Hero() {
             {/* CTAs */}
             <div className="flex flex-col sm:flex-row gap-4">
               <Button variant="gradient" size="lg" className="text-base font-semibold">
-                Confirmar asistencia
-              </Button>
-              <Button variant="outline" size="lg" className="text-base font-semibold">
                 Ver agenda
               </Button>
             </div>

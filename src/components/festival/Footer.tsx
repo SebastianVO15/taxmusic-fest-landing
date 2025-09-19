@@ -19,10 +19,6 @@ export function Footer() {
                 experiencias y la energía del equipo EY. Octubre 2025 en Hacienda San Rafael.
               </p>
               
-              <Button variant="cta" size="lg" className="mb-8">
-                Confirmar Asistencia
-              </Button>
-              
               {/* Quick Info */}
               <div className="space-y-3">
                 <div className="flex items-center gap-3 text-festival-cream/80">

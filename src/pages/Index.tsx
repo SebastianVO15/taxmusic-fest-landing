@@ -5,6 +5,7 @@ import { Activities } from "@/components/festival/Activities";
 import { LineUp } from "@/components/festival/LineUp";
 import { PhotoUploader } from "@/components/PhotoUploader";
 import { Footer } from "@/components/festival/Footer";
+import { FoodTrucks } from "@/components/festival/FoodTrucks";
 
 const Index = () => {
   return (
@@ -19,6 +20,9 @@ const Index = () => {
       </div>
       <div id="activities">
         <Activities />
+      </div>
+      <div id="foodtrucks">
+        <FoodTrucks />
       </div>
       <div id="photos">
         <PhotoUploader />
