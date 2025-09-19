@@ -29,16 +29,6 @@ export function Activities() {
       color: "from-festival-cyan to-festival-purple",
     },
     {
-      id: "guerra-cuerda",
-      icon: Users,
-      title: "Guerra de la Cuerda",
-      duration: "10 min por enfrentamiento",
-      participants: "Equipos de 20 personas",
-      description: "Competencia épica entre equipos que pondrá a prueba la fuerza, estrategia y trabajo en equipo. Una experiencia que fortalecerá los vínculos del equipo EY.",
-      rules: "Los equipos se forman por áreas de trabajo. El equipo que logre arrastrar al oponente más allá de la línea central gana.",
-      color: "from-festival-green to-festival-cyan",
-    },
-    {
       id: "buscaminas",
       icon: Bomb,
       title: "Buscaminas",
